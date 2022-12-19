@@ -2,7 +2,26 @@
 
 I'm an embedded software engineer.
 
-Languages:
+I like using the wrong language for a problem.
+
+# Languages:
+- Python
+- C++
+- C#
+- C
+- Rust
+- Pascal
+- Spark Ada
+- JS
+- HTML
+- CSS
+- PHP
+- Java
+- Javascript
+
+Tools:
+- Bash
+- Arduino
 
 
 <!--
