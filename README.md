@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pho
+### Hi there 👋 I'm Pho (He/Him)
 
 I'm an embedded software engineer.
 
@@ -19,9 +19,11 @@ I like using the wrong language for a problem.
 - Java
 - Javascript
 
-Tools:
+# Tools:
 - Bash
 - Arduino
+- Coral
+- TF
 
 
 <!--
