@@ -17,7 +17,8 @@ I like using the wrong language for a problem.
 - CSS
 - PHP
 - Java
-- Javascript
+- Javascript & Typescript
+- Visual Basic
 - Lua
 
 # Tools:
