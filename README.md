@@ -18,6 +18,7 @@ I like using the wrong language for a problem.
 - PHP
 - Java
 - Javascript
+- Lua
 
 # Tools:
 - Bash
