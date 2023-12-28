@@ -1,10 +1,12 @@
-### Hi there 👋 I'm Pho (He/Him)
+# Hi👋 I'm Pho (He/Him)
 
-I'm an embedded software engineer.
+I'm an embedded software engineer. Specialising in C. 
+
+Interests: embedded systems and cyber security.
 
 I like using the wrong language for a problem.
 
-# Languages:
+## :keyboard: Languages:
 - Python
 - C++
 - C#
@@ -13,21 +15,19 @@ I like using the wrong language for a problem.
 - Pascal
 - Spark Ada
 - JS
-- HTML
-- CSS
 - PHP
 - Java
 - Javascript & Typescript
 - Visual Basic
 - Lua
 
-# Tools:
+## :hammer_and_wrench: Tools/Skills:
 - Bash
 - Arduino
 - Coral
 - TF
 - Processing
-
+- Next.js
 
 <!--
 **PhoChiDes/PhoChiDes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
